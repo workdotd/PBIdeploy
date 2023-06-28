@@ -1,0 +1,7 @@
+[Theme]
+#primarycolor = "F63366"
+primarycolor = "#3E7CA6"
+backgroundColor = "#003F2D"
+secodarybackgroundColor = "#CAD1D3"
+textColor = "#d2785a"
+font = "Segoe UI"
